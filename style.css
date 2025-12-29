@@ -343,6 +343,10 @@ section{
      .home-content{
         align-items: center;
         text-align: center;
+       width:30rem;
+     }
+  .home-content h1{
+        font-size: 500%;
      }
      .home-img img{
         width: 52vw;
@@ -361,4 +365,5 @@ section{
      .contact form{
         flex-direction: column;
      }
+
 }
